@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">L11_Nienajadlo_46481_Kol2</string>
+    <string name="textView1" translatable="false">MN46481</string>
+    <string name="welcomeTextView">Witamy w naszej firmie</string>
+    <string name="nameEditText">Wpisz swoje imie</string>
+    <string name="surnameEditText">Wpisz swoje nazwisko</string>
+    <string name="ageEditText">Wpisz swoj wiek</string>
+    <string name="passwordEditText">Wpisz swoje haslo</string>
+    <string name="buttonLogIn">ZALOGUJ</string>
+    <string name="generateButton">GENERUJ HASLO</string>
+    <string name="saveButton">Zapisz</string>
+    <string name="wczytajButton">WCZYTAJ</string>
+    <string name="textViewName">IMIE</string>
+    <string name="textViewSurname">NAZWISKO</string>
+    <string name="textViewAge">WIEK</string>
+    <string name="error_not">Wprowadz wszystkie dane</string>
+    <string name="data_saved">Dane zapisane</string>
+    <string name="wrong_password">Zle haslo</string>
+    <string name="generated">Haslo wygenerowane</string>
+    <string name="data_loaded">Dane wczytane</string>
+    <string name="buttonPopraw">Popraw dane</string>
+    <string name="buttonMapa">Pokaz lokalizacje</string>
+    <string name="buttonZdjecie">Zdjecie firmy</string>
+    <string name="buttonOblicz">Oblicz</string>
+    <string name="buttonPhotoBack">WROC</string>
+    <string name="error_empty">Puste pole</string>
+    <string name="textViewWynik">WYNIK</string>
+    <string name="textViewImaginary1" translatable="false">i</string>
+
+</resources>

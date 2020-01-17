@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L11_Nienajadlo_46481_Kol2</string>
+    <string name="welcomeTextView">Welcome in our company</string>
+    <string name="nameEditText">Enter Your Name</string>
+    <string name="surnameEditText">Enter Your Surname</string>
+    <string name="ageEditText">Enter Your Age</string>
+    <string name="passwordEditText">Enter Your Password</string>
+    <string name="buttonLogIn">LOG IN</string>
+    <string name="generateButton">GENERATE PASSWORD</string>
+    <string name="saveButton">SAVE</string>
+    <string name="wczytajButton">LOAD</string>
+    <string name="textViewName">NAME</string>
+    <string name="textViewSurname">SURNAME</string>
+    <string name="textViewAge">AGE</string>
+    <string name="error_not">Enter all data</string>
+    <string name="data_saved">Data saved</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="generated">Password generated</string>
+    <string name="data_loaded">Data loaded</string>
+    <string name="buttonPopraw">Change data</string>
+    <string name="buttonMapa">Show localization</string>
+    <string name="buttonZdjecie">Company photo</string>
+    <string name="buttonOblicz">Calculate</string>
+    <string name="buttonPhotoBack">BACK</string>
+    <string name="error_empty">Empty field</string>
+    <string name="textViewWynik">RESULT</string>
+</resources>
